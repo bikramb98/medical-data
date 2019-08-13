@@ -32,7 +32,7 @@ Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php
 ***
 
 __AMRG Cardiac Atlas__
-The AMRG Cardiac MRI Atlas is a complete labelled MRI image set of a normal patient's heart acquired with the Auckland MRI Research Group 's Siemens Avanto scanner. The atlas aims to provide university and school students, MR technologists, clinicians...
+The AMRG Cardiac MRI Atlas is a complete labelled MRI image set of a normal patient's heart acquired with the Auckland MRI Research Group's Siemens Avanto scanner. The atlas aims to provide university and school students, MR technologists, clinicians...
 
 
 __Congenital Heart Disease (CHD) Atlas__
@@ -63,7 +63,7 @@ The SCMR Consensus Dataset is a set of 15 cardiac MRI studies of mixed pathologi
 
 
 __Sunnybrook Cardiac Data__
-The Sunnybrook Cardiac Data (SCD) , also known as the 2009 Cardiac MR Left Ventricle Segmentation Challenge data, consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy , hypertrophy , heart failure with infarction and heart...
+The Sunnybrook Cardiac Data (SCD) , also known as the 2009 Cardiac MR Left Ventricle Segmentation Challenge data, consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy, hypertrophy, heart failure with infarction and heart...
 
 Access: http://www.cardiacatlas.org/studies/
 
@@ -99,7 +99,7 @@ Access: http://www.cancerimagingarchive.net/
 
 __Belarus tuberculosis portal__
 
-Tuberculosis (TB) is a major problem of Belarus Public Health .Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
+Tuberculosis (TB) is a major problem of Belarus Public Health. Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
 Criteria for inclusion clinical cases in the database of the portal - patients admitted to the MDR-TB department of RSPC of Pulmonology and Tuberculosis with diagnosed or suspected of MDR-TB, which conducted CT – study (± 2 months from the date of registration)
 Belarus dataset have both chest X-rays and CT scans of the same patient. 
 
@@ -112,13 +112,13 @@ __DDSM: Digital Database for Screening Mammography__
  The Digital Database for Screening Mammography (DDSM) is a resource for use by the mammographic image analysis research community. Primary support for this project was a grant from the Breast Cancer Research Program of the U.S. Army Medical Research and Materiel Command. The DDSM project is a collaborative effort involving co-p.i.s at the Massachusetts General Hospital (D. Kopans, R. Moore), the University of South Florida (K. Bowyer), and Sandia National Laboratories (P. Kegelmeyer). Additional cases from Washington University School of Medicine were provided by Peter E. Shile, MD, Assistant Professor of Radiology and Internal Medicine. Additional collaborating institutions include Wake Forest University School of Medicine (Departments of Medical Engineering and Radiology), Sacred Heart Hospital and ISMD, Incorporated. The primary purpose of the database is to facilitate sound research in the development of computer algorithms to aid in screening. Secondary purposes of the database may include the development of algorithms to aid in the diagnosis and the development of teaching or training aids. The database contains approximately 2,500 studies. Each study includes two images of each breast, along with some associated patient information (age at time of study, ACR breast density rating, subtlety rating for abnormalities, ACR keyword description of abnormalities) and image information (scanner, spatial resolution, ...). Images containing suspicious areas have associated pixel-level "ground truth" information about the locations and types of suspicious regions. Also provided are software both for accessing the mammogram and truth images and for calculating performance figures for automated image analysis algorithms. 
 
 
-Access: http://marathon.csee.usf.edu/Mammography/Database.html
+Access: http://www.eng.usf.edu/cvprg/
 
 *** 
 
 __Prostate__
 
-Prostate cancer (CaP) has been reported on a worldwide scale to be the second most frequently diagnosed cancer of men accounting for 13.6% (Ferlay et al. (2010)). Statistically, in 2008, the number of new diagnosed cases was estimated to be 899, 000 with no less than 258, 100 deaths (Ferlay et al. (2010)).
+Prostate cancer (CaP) has been reported on a worldwide scale to be the second most frequently diagnosed cancer of men accounting for 13.6% (Ferlay et al. (2010)). Statistically, in 2008, the number of new diagnosed cases was estimated to be 899,000 with no less than 258,100 deaths (Ferlay et al. (2010)).
 
 Magnetic resonance imaging (MRI) provides imaging techniques allowing to diagnose and localize CaP. The I2CVB provides a multi-parametric MRI dataset to help at the development of computer-aided detection and diagnosis (CAD) system.
 Access: http://i2cvb.github.io/
@@ -150,7 +150,7 @@ __SCR database: Segmentation in Chest Radiographs__
 
 The automatic segmentation of anatomical structures in chest radiographs is of great importance for computer-aided diagnosis in these images. The SCR database has been established to facilitate comparative studies on segmentation of the lung fields, the heart and the clavicles in standard posterior-anterior chest radiographs.
 
-In the spirit of cooperative scientific progress, we freely share the SCR database and are committed to maintaining a public repository of results of various algorithms on these segmentation tasks. On thes pages, instructions can be found on downloading the database and uploading results, and benchmark results of various methods can be inspected. 
+In the spirit of cooperative scientific progress, we freely share the SCR database and are committed to maintaining a public repository of results of various algorithms on these segmentation tasks. On these pages, instructions can be found on downloading the database and uploading results, and benchmark results of various methods can be inspected. 
 
 Access: http://www.isi.uu.nl/Research/Databases/SCR/
 
@@ -163,7 +163,7 @@ __Medical Image Databases & Libraries__
 
 - e-Anatomy.org - Interactive Atlas of Anatomy - e-anatomy is an anatomy e-learning web site. More than 1500 slices from normal CT and MR exams were selected in order to cover the entire sectional anatomy of human body. Images were labeled using Terminologia Anatomica. A user-friendly interface allows to cine through multi-slice image series combined with interactive textual information, 3D models and anatomy drawings.
 
-- Medical Pictures and Definitions - Welcome to the largest database of medical pictures and definitions on the Internet. There are many sites sites that provide medical information but very few that provide medical pictures. As far as we know we are the only one that provides a medical picture database with basic information about each term pictured. Editor's Note: Nice website with free access & no pesky registration to 1200+ health and medical related images with definitions.
+- Medical Pictures and Definitions - Welcome to the largest database of medical pictures and definitions on the Internet. There are many  sites that provide medical information but very few that provide medical pictures. As far as we know we are the only one that provides a medical picture database with basic information about each term pictured. Editor's Note: Nice website with free access & no pesky registration to 1200+ health and medical related images with definitions.
 
 - Nucleus Medical Art - Medical Illustrations, Medical Art. Includes 3D animations. "Nucleus Medical Art, Inc. is a leading creator and distributor of medical illustrations, medical animations, and interactive multimedia for publishing, legal, healthcare, entertainment, pharmaceutical, medical device, academia and other markets, both in the U.S. and abroad. Editors Note: Great website.
 
